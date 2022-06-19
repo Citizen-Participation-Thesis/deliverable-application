@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg7434"
+   inkscape:version="1.1.2 (b8e25be833, 2022-02-05)"
+   sodipodi:docname="pil.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7436"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="3.5886564"
+     inkscape:cx="378.83259"
+     inkscape:cy="473.7149"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs7431">
+    <linearGradient
+       id="linearGradient12211"
+       inkscape:swatch="solid">
+      <stop
+         style="stop-color:#fffff8;stop-opacity:1;"
+         offset="0"
+         id="stop12209" />
+    </linearGradient>
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect7576"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+  </defs>
+  <g
+     inkscape:label="Lag 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       style="opacity:1;fill:none;fill-opacity:0.337349;fill-rule:nonzero;stroke:#000000;stroke-width:1.365;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:3.5465;stroke-opacity:1;paint-order:normal"
+       d="m 80,114.4325 c -0.714801,-0.7148 30,30.99819 30,30.99819 l 30,-30.99819"
+       id="path12813"
+       sodipodi:nodetypes="ccc" />
+    <path
+       style="stroke:#fffff8;stroke-width:0.765;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:3.5465;stroke-opacity:1;paint-order:normal;fill-opacity:0.33734939;fill-rule:nonzero;fill:none;opacity:1"
+       d="m 80,114.4325 c -0.714801,-0.7148 30,30.99819 30,30.99819 l 30,-30.99819"
+       id="path7710"
+       sodipodi:nodetypes="ccc" />
+  </g>
+</svg>

@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f6faa028c528423a8512eb5f346a3622, type: 3}
+  m_Name: PositionStateData
+  m_EditorClassIdentifier: 
+  isModeEntrypoint: 1
+  className: PositionState
+  description: Pek og velg
+  modeName: Flytter
+  componentClassName: Movable
+  topContent:
+    m_AssetGUID: e7e70766c509ba242b70f7bc6ccbe736
+    m_SubObjectName: 
+    m_SubObjectType: 
+    m_EditorAssetChanged: 0
+  middleContent:
+    m_AssetGUID: bdd5ff161ad90da4e9dc12994406e711
+    m_SubObjectName: 
+    m_SubObjectType: 
+    m_EditorAssetChanged: 0
+  sprite:
+    m_AssetGUID: 5a953cf0334b71af19972361ac38045a
+    m_SubObjectName: 
+    m_SubObjectType: 
+    m_EditorAssetChanged: 0

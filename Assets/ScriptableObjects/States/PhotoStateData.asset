@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f6faa028c528423a8512eb5f346a3622, type: 3}
+  m_Name: PhotoStateData
+  m_EditorClassIdentifier: 
+  isModeEntrypoint: 1
+  className: PhotoState
+  description: Pek og velg
+  modeName: Foto
+  componentClassName: 
+  topContent:
+    m_AssetGUID: e7e70766c509ba242b70f7bc6ccbe736
+    m_SubObjectName: 
+    m_SubObjectType: 
+    m_EditorAssetChanged: 0
+  middleContent:
+    m_AssetGUID: 604cb5c7cd7428d48b2d4e5bb77051ff
+    m_SubObjectName: 
+    m_SubObjectType: 
+    m_EditorAssetChanged: 0
+  sprite:
+    m_AssetGUID: 93fb83e2b1ef9293ca611770efba17b2
+    m_SubObjectName: 
+    m_SubObjectType: 
+    m_EditorAssetChanged: 0

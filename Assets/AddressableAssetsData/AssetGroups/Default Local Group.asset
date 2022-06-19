@@ -1,0 +1,363 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Default Local Group
+  m_EditorClassIdentifier: 
+  m_GroupName: Default Local Group
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 926958885621182dcb228de92b77881f
+  m_SerializeEntries:
+  - m_GUID: 7056a35b9b3b74367b6b7dbf15fa5db4
+    m_Address: Assets/UI/ModeButton.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: a3200bd4f25c7602e8f76063bcb46670
+    m_Address: Assets/UI/Mode Scroll View.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: cf01e198763441a658922046a1704221
+    m_Address: Assets/AssetBundles/building_04_nopack.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: f785c389794c8608b81edab7759dd2e1
+    m_Address: Assets/AssetBundles/porsche.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 77d53c72c6169941aaf257440061fabd
+    m_Address: Assets/Textures/palette_white_48dp.svg
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 438162cc76a64ea57b91a3f7907da244
+    m_Address: Assets/Textures/add_white_48dp.svg
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 0008138b3327ff1ca9e35ae681e352c7
+    m_Address: Assets/Textures/arrow_back_ios_new_white_48dp.svg
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: c10802841cd04727bbab465317794e06
+    m_Address: Assets/Textures/background_dark_72dp.svg
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 9f65b94de2814c4548f5a788e592fc43
+    m_Address: Assets/Textures/check_circle_white_48dp.svg
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 11bd88c2441c04ef59905eee7645efaa
+    m_Address: Assets/Textures/circle.svg
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: a7244c0c7c1f6783dbcfb1ef572de16a
+    m_Address: Assets/Textures/close_white_48dp.svg
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: e538b2445dabc5bc799438ae843ae5ab
+    m_Address: Assets/Textures/more_vert_white_48dp.svg
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: e26f772a7aa73dc8b9158ec7de9f3e33
+    m_Address: Assets/Textures/other_houses_white_48dp.svg
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 93fb83e2b1ef9293ca611770efba17b2
+    m_Address: Assets/Textures/photo_camera_white_48dp.svg
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: ed81b50c8eff4f6bcad59b93ebf213f9
+    m_Address: Assets/Textures/remove_white_48dp.svg
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: e6944b78fcdeea69b829d056bcd07537
+    m_Address: Assets/Textures/sync_white_48dp.svg
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 6f5cd865d7a9ca7b98bd83eb010aac57
+    m_Address: Assets/Textures/visibility_off_white_48dp.svg
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 0ad9dea3bb7fc9e439502441cdb5a895
+    m_Address: Assets/Textures/visibility_white_48dp.svg
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 5a953cf0334b71af19972361ac38045a
+    m_Address: Assets/Textures/edit_location_white_48dp.svg
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: f3ca95cb26042781090c3f1da872ac54
+    m_Address: Assets/Textures/transform_white_48dp.svg
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 6b8eb50b2a46aa7f7b377d274b0f823d
+    m_Address: Assets/Textures/mode_of_travel_white_48dp.svg
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 58b36ce8812de56be9025a8538f75da3
+    m_Address: Assets/Textures/add_business_white_48dp.svg
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: f4170758bedbef5ca92d824bbba80952
+    m_Address: Assets/Textures/domain_add_white_48dp.svg
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 5234ff167581b1d4f93fc26b932644f4
+    m_Address: Assets/Textures/SVG_Circle.svg
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 072bb81418f9f8044b2dfa98bd025b91
+    m_Address: Assets/Textures/camera_realistic_icon.svg
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: bdd5ff161ad90da4e9dc12994406e711
+    m_Address: Assets/UI/AlternativeTouchPanel.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 53b3593202c1deb47bbafd891d1c3170
+    m_Address: Assets/Models/idrettshall/materials/Vegg_Treverk.mat
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Materials
+  - m_GUID: 526b9d3bf157c58439947fea0b68a18c
+    m_Address: "Assets/Models/idrettshall/materials/Aksent_Gr\xE5.mat"
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Materials
+  - m_GUID: d6be3ee0de1e40653869a58640f8bdd1
+    m_Address: Assets/ScriptableObjects/States/StateDataRegistry.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 31365f87b20374f46a79e86aab034964
+    m_Address: Assets/Models/idrettshall/materials/optional/Vegg_Hvit boks.mat
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Materials
+  - m_GUID: 84d8ffb5539652f4eacbb9d1e7ce332a
+    m_Address: Assets/Models/idrettshall/materials/optional/Vegg_Gul boks.mat
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Materials
+  - m_GUID: edfc638e759e6f85dab44d67d199a26e
+    m_Address: Assets/ScriptableObjects/States/MaterialStateData.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 3a5d98bc436ffc333b8788e7a9cf93ba
+    m_Address: Assets/ScriptableObjects/States/ModeAlternativeStateData.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 29c6b885697144c459150a021bd5a82d
+    m_Address: Assets/Models/idrettshall/materials/optional/Vegg_Voronoi.mat
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Materials
+  - m_GUID: cc0e072161730e0f28005662f46831ba
+    m_Address: Assets/ScriptableObjects/States/ModelFocusStateData.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 9dea2313ecfed22cb8b166a49d7c97f1
+    m_Address: Assets/ScriptableObjects/States/PhotoStateData.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 4c632ed80f1d55a5baca9ef18bee7f24
+    m_Address: Assets/ScriptableObjects/States/PlacementAlternativeStateData.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 1e4ee45ec4c05f6479854aea3c0e2e10
+    m_Address: Assets/UI/Categorized Touch Panel.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 6eb8dfbb28d226686bbd1a7626eb3266
+    m_Address: Assets/ScriptableObjects/States/PositionChangeFocusStateData.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 9b49f0faccffa344fa466a8716f4a377
+    m_Address: "Assets/Models/idrettshall/materials/optional/Aksent_M\xF8rkt Metall.mat"
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Materials
+  - m_GUID: 794daa87ac28694e18587173013f6b79
+    m_Address: Assets/AssetBundles/Testing.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: ebabfdf81fc72414f9921cfe2ed4b652
+    m_Address: Assets/Materials/lib/door_chiseled.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: d7345edb353d0794296950a9adb3ad4d
+    m_Address: Assets/Materials/lib/roof_hex.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 78f6c3f1d47eef84f9ee5e607fad4c0c
+    m_Address: Assets/Materials/lib/roof_plain.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: e94c7625cd2e80d4e8fd19b24fc89d93
+    m_Address: Assets/Materials/lib/wall_abstract.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 7f46efa3bb98bb44ea780a4a417b4f75
+    m_Address: Assets/Materials/lib/wall_stone.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: e2782bd09fb749e4f8c457cb9c8cc6cd
+    m_Address: Assets/Materials/lib/wall_wood1.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: d6f48f436c3dfca479ba6007d2054a0c
+    m_Address: Assets/Materials/lib/Inngang_Meislet.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: feb5e5f8ae99f094783e0e6ca97ee26e
+    m_Address: Assets/Materials/lib/Betong_Heksagon.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 4a99e64bd41f4c447b8a437a7cedbd26
+    m_Address: Assets/Materials/lib/Aksent_Murstein.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 3ff7535cc31373244b1dfe7a297bcd4e
+    m_Address: Assets/Materials/lib/Inngang_Lappet.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 56d45a9078dd6c54aba0a62795e1c73e
+    m_Address: Assets/Materials/lib/Vegg2_Arktisk.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 8a3c71180e53c4f448e103d26077f4f1
+    m_Address: Assets/Materials/lib/Vegg2_Tre.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: ea5eba7cc01865645b62da9f4a0fecd7
+    m_Address: Assets/Models/idrettshall/materials/optional/Aksent_Gult Metall.mat
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Materials
+  - m_GUID: 666e08eebbaf86543ad10af626efe0c5
+    m_Address: Assets/ScriptableObjects/States/RemoveState.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: d8639925f0fff4348bd11fe73b70f6c6
+    m_Address: Assets/Models/placeables/materials/bench1_classic_wood.mat
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Materials
+  - m_GUID: e20d23aa7e2ca01419d7c3ced7770beb
+    m_Address: Assets/Models/placeables/materials/wood.mat
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Materials
+  - m_GUID: 880e39709c99d8448b2261383aa5207a
+    m_Address: Assets/Models/placeables/materials/bench1_dark.mat
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Materials
+  - m_GUID: 2189c86f886d62d4e823df2e5ce3822a
+    m_Address: Assets/Models/placeables/materials/bench1_red.mat
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Materials
+  - m_GUID: 5ebd8985072cae24685a29a9da6f5957
+    m_Address: Assets/Models/placeables/materials/bench2_dark.mat
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Materials
+  - m_GUID: eaede13026707214b985779ce249dcc8
+    m_Address: Assets/Models/placeables/materials/bench2_red.mat
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Materials
+  - m_GUID: e842185e81dd4394ea157023f88d46ea
+    m_Address: Assets/Models/placeables/materials/leaves1_green.mat
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Materials
+  - m_GUID: b036e7b1f1320f648bfbbe1f035e3a61
+    m_Address: Assets/Models/placeables/materials/pot1_dark.mat
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Materials
+  - m_GUID: 9150301fce2a704428af9527f8e8ce7b
+    m_Address: Assets/Models/placeables/materials/leaves1_pink.mat
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Materials
+  - m_GUID: ad8be61fb234699438814b9fa0a34731
+    m_Address: Assets/Models/placeables/materials/leaves1_autumn.mat
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Materials
+  - m_GUID: e1ee1ce02f58fe84bb3585f3a05ed773
+    m_Address: Assets/Models/placeables/materials/pot1_light.mat
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Materials
+  - m_GUID: cc2c3c8e5b8675248a01a23a226ef12f
+    m_Address: Assets/Models/placeables/materials/stem_brown.mat
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Materials
+  - m_GUID: 49250c92f938ad549a9916f9f94c3837
+    m_Address: Assets/Models/placeables/materials/stem_white.mat
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Materials
+  - m_GUID: 4b07169174ae0714981f214133759756
+    m_Address: Assets/Models/placeables/materials/stem_dark.mat
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Materials
+  - m_GUID: 7a84a29b46e4444468a019641e1e8036
+    m_Address: Assets/Models/idrettshall/materials/static/glass_purple.mat
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Materials
+  - m_GUID: 37ceb509e7c11804b94b8c19fa50edb0
+    m_Address: Assets/Models/idrettshall/materials/optional/Glass_Oransje.mat
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Materials
+  - m_GUID: c6a10f4f1d6779c4d827e397c2d78af7
+    m_Address: Assets/Textures/camera_render.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: fb82008678ef59c478a68005eeed4ce2
+    m_Address: Assets/Models/idrettshall/materials/optional/glass_blue.mat
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Materials
+  - m_GUID: 604cb5c7cd7428d48b2d4e5bb77051ff
+    m_Address: Assets/UI/CameraTouchPanel.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 68a5f9974757f0346b75f0ee4342e111
+    m_Address: Assets/Models/placeables/Rund Potte.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: a3a1f4263f6c5dd4a84742e49ce12a0e
+    m_Address: Assets/Models/placeables/materials/Potte _Hvit.mat
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Materials
+  - m_GUID: 105397b65e931d248b354df7b5a7315d
+    m_Address: Assets/Models/placeables/materials/Potte _Svart.mat
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Materials
+  - m_GUID: c5e6f74ef078652498fc228ea7a96faa
+    m_Address: Assets/UI/DeleteTouchPanel.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 19b8de068d6898565a46a81c15e50940, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: a615f93628f7a2df482916a396aa479d, type: 2}
+    - {fileID: 11400000, guid: d0603fcba82355b4ea9468de3927155e, type: 2}

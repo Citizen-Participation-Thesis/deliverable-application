@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f6faa028c528423a8512eb5f346a3622, type: 3}
+  m_Name: ModeAlternativeStateData
+  m_EditorClassIdentifier: 
+  isModeEntrypoint: 0
+  className: ModeAlternativeState
+  description: Sveip og velg
+  modeName: Funksjoner
+  componentClassName: 
+  topContent:
+    m_AssetGUID: e7e70766c509ba242b70f7bc6ccbe736
+    m_SubObjectName: 
+    m_SubObjectType: 
+    m_EditorAssetChanged: 0
+  middleContent:
+    m_AssetGUID: f621115fdfa07dfb78124371509cb102
+    m_SubObjectName: 
+    m_SubObjectType: 
+    m_EditorAssetChanged: 0
+  sprite:
+    m_AssetGUID: e26f772a7aa73dc8b9158ec7de9f3e33
+    m_SubObjectName: 
+    m_SubObjectType: 
+    m_EditorAssetChanged: 0
