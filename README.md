@@ -15,9 +15,8 @@ Note that the application has only ever been built with Windows and Linux comput
 For good measure, you should have at least 10 GB of free disk space.
 
 # Build Instructions
-Here are the suggested instruction for building application to your device, which consist of 5 steps.
+Here are the 5 steps to build the application to your mobile device.
 If you are reading this and you are not on GitHub, disregard step 2.
-We have included the APK-file, build.apk, of the built application that you may transfer directly to your device if you are familiar with developing for Android.
 
 ## 1. Download Unity Hub and Unity Editor
 
@@ -71,7 +70,7 @@ Be advised that it may take several minutes for the application to build.
 Navigate to the "File" drop-down menu and find "Build Settings...". Click "Build Settings...".
 You should now see the "Build Settings" window.
 Find and click the "Build and Run".
-You should now see a file manager window
+You should now see a file manager window. Click save.
 
 ## 5. Run the Application and Prepare the QR Code
 
